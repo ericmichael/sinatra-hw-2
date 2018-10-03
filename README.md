@@ -38,7 +38,7 @@ Your goal is to make basic CS 1 type applications that can be interacted with ov
 
 
 
-#### Multiply
+### <u>Multiply</u>
 
 **High-Level Idea:** Make an application that can multiply together two integers and return the result over a web browser.
 
@@ -57,7 +57,7 @@ Navigating to `localhost:4567/multiply?x=4&y=8` should result in `32` being show
 
 
 
-#### Float Multiply
+#### <u>Float Multiply</u>
 
 **High-Level Idea:** Make an application that can multiply together two floating point numbers and return the result over a web browser.
 
@@ -65,7 +65,7 @@ Navigating to `localhost:4567/multiply?x=0.5&y=8.2` should result in `4.1` being
 
 
 
-#### Product
+### <u>Product</u>
 
 **High-Level Idea:** Make an application that can multiply all the numbers in a certain range together and return the result.
 
@@ -73,7 +73,7 @@ Navigating to `localhost:4567/product?start=5&end=9` should result in `15120` be
 
 
 
-#### Login
+### <u>Login</u>
 
 **High-Level Idea:** Make an application that can determine whether a not a user is allowed in by checking their username and password. 
 
